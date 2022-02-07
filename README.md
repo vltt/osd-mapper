@@ -1,3 +1,9 @@
+**Task:** 
+
+Create an algorithm for redistributing the data such that all devices are less than 90% full. The
+amount of data moved should be less than double the simplistic theoretical minimum (just considering bytes, not
+files).
+
 **Algo:**
 1) Sort files by hash.
 Code: sorted_file_data
